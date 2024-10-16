@@ -4,7 +4,7 @@ const About = () => {
     return (
         <>
             <h1></h1>
-            <h6>another_page</h6>
+            <h6></h6>
             <Nav />
         </>
     );
