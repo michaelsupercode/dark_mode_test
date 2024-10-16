@@ -25,6 +25,7 @@ const Home = () => {
 
     useEffect(() => {
         changeColor()
+    // eslint-disable-next-line react-hooks/exhaustive-deps
     }, [mode])
 
 
